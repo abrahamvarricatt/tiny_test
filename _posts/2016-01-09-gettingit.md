@@ -1,7 +1,9 @@
 ---
 published: true
 layout: post
+title: "Title for Getting it!!"
 ---
+
 
 
 I'm not sure how headings work with these posts, but I like the interface of prose.io. For no better reason than the fact that I can use it as a WYSIWYG editor. 
