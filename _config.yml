@@ -8,7 +8,7 @@ relative_permalinks: false
 title:               'Tiny Test'
 tagline:             'A project blog'
 description:         'A notes area for this project. Something to just write thoughts on and come back to later. '
-url:                 'http://abrahamvarricatt.github.io/tiny_test'
+url:                 'http://abrahamvarricatt.github.io'
 baseurl:             '/tiny_test'
 paginate:            5
 
